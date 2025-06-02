@@ -1,10 +1,11 @@
 # Web application
 
-This is the web application to host the deep learning models and try them.
+This is a web application to host the deep learning models and try them. 
+### both TResnet and Densenet PyTorch models are too big to be uploaded on GitHub, therefore mobilenet was simply copied and renamed so that the application coudl work as intented
 
 
 ## Installation
-The appropriate python package to run this application are required. You can install them by using
+The appropriate python package to run this application is required. You can install them by using
 ``` pip install the_package```
 
 ## Usage
