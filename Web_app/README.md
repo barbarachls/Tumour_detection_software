@@ -1,7 +1,7 @@
 # Web application
 
 This is a web application to host the deep learning models and try them. 
-### both TResnet and Densenet PyTorch models are too big to be uploaded on GitHub, therefore mobilenet was simply copied and renamed so that the application coudl work as intented
+##### Both Resnet and Densenet PyTorch models are too big to be uploaded on GitHub, therefore, mobilenet was simply copied and renamed so that the application could work as intended
 
 
 ## Installation
